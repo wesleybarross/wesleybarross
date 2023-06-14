@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Wesley Barros 🖐️
 
 🕹️ Sou um amante e entusiasta de games e tecnologia ! <br>
-💬 Estou no 2º Semestre de Análise e Desenvolvimento de Sistemas pela<br>
+💬 Estou no 2º Semestre de Análise e Desenvolvimento de Sistemas<br>
 🏡 São Paulo (São Paulo) ✈️ Brasil<br>
 <img align="center" height="80" width="150" src="https://media.tenor.com/S4xlGgkcxmIAAAAi/lee-sin.gif"><br>
 
@@ -9,7 +9,8 @@
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://https://www.linkedin.com/in/wesley-barros/)](https://www.linkedin.com/in/wesley-barros/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+5511970127203)
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://twitch.tv/wesleyalm)
-<a href="https://discord.gg/mYFHBrn6" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@me)
+
 
 
 ## Algumas tecnologias que eu uso no dia a dia
