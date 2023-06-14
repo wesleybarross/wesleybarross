@@ -34,8 +34,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wesleybarross&layout=compact)](https://github.com/wesleybarross/github-readme-stats)
 
 
-![Snake animation](https://github.com/wesleybarross/wesleybarross/blob/output/github-contribution-grid-snake.svg)
-
           
 ### Comunicação não é só falar, ver ou ouvir, é fazer entender!
 
