@@ -40,3 +40,28 @@
 <div align="center">
 <br><p align="centre"><b>✅Contagem de visitantes no meu Perfil✅</b></p>
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{wesleybarross/count.svg" /></p>
+
+
+
+ <div align='center'>
+   <img align='center' alt="nuvens" src="https://media.giphy.com/media/K7o9FdCoDnwEo/giphy.gif" width="100">
+   <img align='center' alt="nuvens" src="https://media.giphy.com/media/K7o9FdCoDnwEo/giphy.gif" width="100">
+   <img align='center' alt="nuvens" src="https://media.giphy.com/media/K7o9FdCoDnwEo/giphy.gif" width="100">
+   <img align='center' alt="nuvens" src="https://media.giphy.com/media/K7o9FdCoDnwEo/giphy.gif" width="100">
+   <img align='center' alt="nuvens" src="https://media.giphy.com/media/K7o9FdCoDnwEo/giphy.gif" width="100">
+   <img align='center' alt="nuvens" src="https://media.giphy.com/media/K7o9FdCoDnwEo/giphy.gif" width="100">
+   <img align='center' alt="nuvens" src="https://media.giphy.com/media/K7o9FdCoDnwEo/giphy.gif" width="100">
+   <img align='center' alt="nuvens" src="https://media.giphy.com/media/K7o9FdCoDnwEo/giphy.gif" width="100">
+   <img align='center' alt="nuvens" src="https://media.giphy.com/media/K7o9FdCoDnwEo/giphy.gif" width="100">
+   </div>
+
+   <br></br>
+  
+   <div>
+   <img align='center' alt="pokemon" src="https://media.giphy.com/media/TZco470UACpNK/giphy.gif" width="100">
+   </div>
+   </div>
+
+  <!-- finalização nuvens pokemon -->
+
+   <body>
